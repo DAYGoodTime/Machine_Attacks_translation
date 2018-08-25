@@ -1,0 +1,213 @@
+Ma_ep2_2_cn.lang
+
+T_标题
+en:Chapter 2 : Escape
+cn:第二章:逃跑!
+
+t_dark_can'tgo
+en:The way is too darkness, we can't go there
+cn:这条路太黑了,我们不能走这里.
+
+t_b_a
+en:Demoman: Damnit! The rock is blocking us!
+cn:爆破手:啊糟糕!这个巨石挡住了我们的路!
+
+t_1_a
+en:Sniper: So, We need to use the darkness way , don't we?
+cn:狙击手:所以,我们要走那条小黑路?
+
+t_1_a
+en:Engineer: Everyone! Did you hear something? It's like a tank sound
+cn:工程师:各位!你们听到了什么了吗?好像听起来像坦克的声音.
+
+t_1_a
+en:Medic : Look like the sound came from behind, I concern about us
+cn:医生:听起来声音是从后面传出来的,我有种不详的预感.
+
+t_1_a
+en:Soldier: OH MY GOD!! We need to clear the block! NOW!!
+cn:士兵:我的妈妈啊!!我们清掉这块巨石!快点啊>_<!
+
+t_destroy_the_rock
+en:DESTROY THE BIG ROCK!!!!!!!!
+cn:攻击这块石头!!!!!!!
+
+t_geton_elevator
+en:THE ELEVATO, QUICKLY!!!!
+cn:快点上电梯!快点!!!!
+
+t_2_a
+en:Heavy: This is Junction,why are we doing here?
+cn:机枪手:这里是交界处,为什么我们会在这里?
+
+t_1_a
+en:Scout: Hey!,Looks the train! we can use it to escape from here
+cn:侦察兵:嘿!看这个火车.我们可以用它来逃离这里.
+
+t_1_a
+en:Engineer: Oh yeah, we need to get on the train and get out of here
+cn:工程师:哦♂yes!我们需要这辆火车来出去.
+
+t_1_a
+en:Engineer: These controllers look like they control this train,But they're not working
+cn:工程师:这些控制台看像去是控制这辆火车的,但是它们不工作.
+
+t_1_a
+en:Medic: Maybe, We should go to inside to find the way and brings them back to work
+cn:医生:也许,我们应该进去里面找到方法让它们恢复工作.
+
+t_1_a
+en:Soldier: C'mon let's do it , before the robots come
+cn:士兵:来吧,在机器人冲进来之前我们得恢复它.
+
+t_upgrade_notyet
+en:You can not use other upgrades yet
+cn:你现在还不能使用其他升级.
+
+laser_careful
+en:Be careful,It's laser security!
+cn:小心点,这些机关十分的危险!
+
+t_laser_shut
+en:Laser has been shutdown
+cn:激光已经被关闭了.
+
+t_solve_serial_laser
+en:Now, disable the laser wall
+cn:现在,想办法关闭激光墙.
+
+t_gatelaser_shut
+en:The laser gate is turnoff
+cn:激光门被关闭了.
+
+t_display1
+en:Engineer: Maybe the door,It must was controlled with computer or machine or something
+cn:工程师:这门肯定是被某个控制台或机器控制着.
+
+t_com_destroyed
+en:The door is unlocked now
+cn:门现在解锁了.
+
+t_door
+en:Find a way to open this door
+cn:想办法解开这道门.
+
+t_3_a
+en:Demoman: Hey! Spy! Sapping them all !
+cn:爆破手:嘿!间谍!搞定那些步哨!
+
+t_1_a
+en:Spy: Are you kidding? I can't jump height enough
+cn:间谍:你在开玩笑嘛?我蹦迪也跳不了那么高.
+
+t_1_a
+en:Sniper: Then find to way to destroyes them,We can't destroy them
+cn:狙击手:既然破坏不了就想办法怎么关闭它们.
+
+t_1_a
+en:Find a way to destroy those sentries
+cn:找到方法关闭这些步哨.
+
+text_spy_talk
+en:Spy: We need someone to go that way, Don't forget to press the button
+cn:间谍:我们需要某个人去那边,不要忘记按下按钮.
+
+text_error_massage
+en:This controller was controlled by some controller
+cn:这个控制台还需要跟另一个控制台一起工作.
+
+t_find_unlock_control
+en:Find a way to unlocks this controller
+cn:想办法解开这个控制台.
+
+t_display2
+en:Engineer: We need to consider each of controller or computer
+cn:工程师:我们需要2个人同时控制2个控制台.
+
+t_enable_con
+en:Now,that's controller is unlocked
+cn:现在,那个控制台解锁了.
+
+t_unlock_entry
+en:Sound like the door is opening
+cn:听起来像门打开的声音.
+
+t_m_d
+en:Spy:Umm Yes,But I can feel not good
+cn:间谍:emm是吧,但是我感觉不太好.
+
+t_m_h
+en:Pyro:Mmmhm Mhomhomho
+cn:火焰兵:咕噜咕噜~~.
+
+t_musttogetther
+en:We must control together!
+cn:我们必须同时站在2个控制台面前!
+
+t_4_a
+en:Sniper: Is that generator machine?
+cn:狙击手:那个是火车的发动机吗?
+
+t_1_b
+en:Engineer: Yeah look like it's still working, I will connect it to those train controllers
+cn:工程师:太好了,它看上去还行还能工作,我过去把它连接到火车的控制台.
+
+t_1_c
+en:Scout: Robot! they're robot they're coming attack!
+cn:侦察兵:机器人!它们回来袭击我们了!
+
+t_1_d
+en:Engineer: Dammit! Everyone! Protect this generator! Don't let them destroy this thing!
+cn:工程师:糟糕!大家一定要保护这个发动机,不能让他们把发动机破坏了!
+
+t_1_a
+en:Demoman: We will protect as all as we can do!
+cn:爆破手:我们会尽力去保护它的!
+
+t_1_a
+en:Heavy: Don't take a long time, We don't sure how long to protect this
+cn:机器手:不要搞很长时间,我们不知道还能撑多久.
+
+t_don't_lose
+en:If robots destroy the generator,You will lose!!
+cn:如果机器人占领了发动机,你将会失败!!
+
+text_percent_gm_25
+en:25% completed
+cn:已经完成了25%.
+
+text_percent_gm_50
+en:50% completed
+cn:已经完成了50%.
+
+text_percent_gm_75
+en:75% completed
+cn:已经完成了75%.
+
+text_percent_gm_90
+en:90% completed
+cn:已经完成了90%.
+
+t_5_a
+en:Engineer: The generator has already connected to those train controller!, Everyone get back!!
+cn:工程师:发动机已经连接到了火车控制台,全部人都退回去!!
+
+t_6_a
+en:Engineer: How does the door close!?, We need to find the way to open that door!
+cn:工程师:这门是怎么关闭的?!,我们要想办法打开这扇门!
+
+t_1_a
+en:Demoman: No, I don't need to use more brain anymore, Everyone!! shoot the door DOWN!!
+cn:爆破手:不,我们不用那么麻烦,各位!!直接把这门射下来!
+
+t_7_a
+en:Heavy : The train is started, Everyone! get on the train NOW!
+cn:机枪手:火车已经启动了!老司机快上车!
+
+t_1_a
+en:To be Continue for Ep 3
+cn:未完待续哦!
+
+t_1_a
+en:
+cn:

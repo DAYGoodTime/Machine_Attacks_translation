@@ -1,0 +1,141 @@
+Ma_ep1_2_cn.lang
+
+T_标题
+en:Chapter 1 : Robots Attack
+cn:第一章:机器人的袭击.
+
+t_1
+en:Sniper: Wait! What the hell happening!? Why do those robots come here?
+cn:狙击手:等等!发生了什么大新闻?!为什么这些机器人都冲过来?
+
+t_2
+en:Soldier: I don't know,but we must protect our base now!
+cn:士兵:我母鸡啊!不过现在我们要保护我们的基地!
+
+t_3
+en:Engineer: Maybe,We should join blue team to defeat robots
+cn:工程师:也许我们应该联合起来对抗机器人.
+
+t_4
+en:Spy: Too late! Those robots have already captured blue's base
+cn:间谍:太迟了!这些机器人已经占领的蓝队的基地了.
+
+t_5
+en:Heavy: Then,What should we do? Kill robots all?
+cn:机枪手:然后?我们该怎么做?杀掉全部机器人?
+
+t_2
+en:Spy: I have found the secret way to get out of here,follow me! I will lead you all
+cn:间谍:我知道一个秘密通道可以到哪里,跟着我!我将带头冲锋!
+
+t_1
+en:Scout: Yep! Let's kicks those metal scrap ass right now!
+cn:侦查兵:了解!让我们踢爆这些废铁的屁股!
+
+text_robot_rush
+en:Robots are coming!
+cn:机器人冲过来了!
+
+t_crash5
+en:The shortcut path is opened
+cn:捷径打开了.
+
+t_hot
+en:The water is very hot!
+cn:这水超烫的!
+
+t_m_a
+en:Sniper: The way is cleared,Go Go Go
+cn:狙击手:道路清空!GO GO GO!
+
+t_m_b
+en:Soldier:Robots are dead, Charge!
+cn:士兵:解决掉机器人了,Charge!
+
+t_m_c
+en:Engineer: Keep moving!
+cn:工程师:冲啊!
+
+t_m_d
+en:Spy:Move Move Move!
+cn:间谍:冲!冲!冲!
+
+t_m_e
+en:Heavy:Everyone! Moveeeeee!
+cn:机枪手:冲啊←↑↗↖↓↘↙!
+
+t_m_f
+en:Scout:Hey!,Got a moving guy!
+cn:侦查兵:看!一个会动的东西!
+
+t_m_g
+en:Demoman:RUN! RUNNNNNN!
+cn:爆破手:跑啊啊啊啊啊!
+
+t_onfire
+en:The way is on fire!!!!
+cn:这条路着火了!!!!
+
+t_sd_a
+en:Engineer:The safedoor is blocking us,How can we do?
+cn:工程师:安全门挡住了我们,怎么办?
+
+t_sb_b
+en:Spy: Umm,I don't know about this,regardless
+cn:间谍:emm,我也不知道怎么办,不然....
+
+t_sb_c
+en:Heavy: Let me open the door!!Jezz The door is too strong!
+cn:机枪手:让我来撞开这门!!只是这门太坚硬了!
+
+t_sb_d
+en:Demoman:Then shoot the door down! however strong this door is
+cn:爆破手:直接把这破门拆掉!不过就是有点难度而已.
+
+t_shoot_metal_door
+en:Destroy the door
+cn:打爆这扇门!
+
+t_1_1
+en:Scout: HOLY SHIT!! ROBOT BOSS!!
+cn:侦察兵:我累个妈耶!!巨型机器人!!
+
+t_scd_a
+en:Medic: We killed the giant robot, Where is secret door?
+cn:医生:我们击败了巨型机器人,神秘通道在哪里?
+
+t_scd_b
+en:Spy: I know there is a secret door in briefcase room,There must be here
+cn:间谍:我知道秘密通道一定在情报室里,一定在这附近.
+
+t_scd_c
+en:Spy: But I don't know where is it
+cn:间谍:但是我不知道它具体在哪.
+
+t_scd_d
+en:Scout: Oh man! So we need to find around this room now
+cn:侦查兵:啊不是吧!我们还要找出秘密通道出来.
+
+t_cant_go_tunnel
+en:The Sewer is blocked! We can't go that way
+cn:这个下水道坏了!我们不能走这里.
+
+t_F_F_D
+en:Find the secret door
+cn:找到神秘通道.
+
+t_scd_e
+en:Sniper: It's here, the door is here everyone!
+cn:狙击手:在这里!伙伴们,门在这里!
+
+t_scd_f
+en:Engineer: What's path go to there? I didn't know about this path before
+cn:工程师:这条通道通向哪里呢?我以前从来不知道有这样的神秘通道.
+
+t_scd_g
+en:Soldier: It's only way we can get out of here, Let's go and find what is it
+cn:士兵:这是我们唯一能出去的通道了,让我们进去看看里面是什么.
+
+t_continue
+en:To be Continue for Ep 2
+cn:未完待续哦!

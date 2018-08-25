@@ -1,0 +1,275 @@
+Ma_ep0_2_cn
+
+标题
+en:Chapter 0 : Training
+cn:第0章: 训练
+
+t_1_1
+en:Welcome to Machine Attacks , the campaign MvM maps
+cn:欢迎来到 Machine Attacks ,一个剧情向的MVM地图.
+
+t_2
+en:This time is a begining tutorial if you are newbie
+cn:如果你是个新手的话,接下来将会开始教你如何开始玩这个系列的地图.
+
+t_3
+en:There are totally 10 stages, Get ready
+cn:一共有10个环节,你准备好了吗?
+
+t_2_1
+en:Here you are, This is The Upgrade Station
+cn:看这里, 这里就是全新的升级台!
+
+t_2_2
+en:And this is upgrade selection , Use your melee and hit a button to choose these upgrade
+cn:还有这里!这是升级选择站,用你的近战武器来敲击按钮来选择升级的内容.
+
+t_2_3
+en:If you don't have them yet/ then hit this button
+cn:如果你没装超级升级mod的话，那就敲击这个按钮.
+
+t_2_4
+en:If you want to use them / this is how you need to do
+cn:如果你想使用它们的话,旁边的告示牌将告诉你如何安装.
+
+t_2_5
+en:Premium is regular upgrade with a many sockets and also reduce price for 25 percent
+cn:初级升级是一个正常的升级,他是普通MVM升级的扩展，而且价钱比原版的便宜.
+
+t_2_6
+en:Support is upgrade that increase your power for most characters and weapons
+cn:高级升级是你没见过的全新升级,有着原版mvm完全没有的升级内容.
+
+t_2_7
+en:Package is pack of some upgrades and if you buy will reduce for some extra price
+cn:打包升级是将某些升级整合成一个大升级而且会有蜜汁优惠哦.
+
+t_2_8
+en:If you want more, hit these buttons which matching your class
+cn:如果你想有更多特殊升级,选择你的职业来购买专属升级.
+
+t_2_9
+en:If you hit a button it will delay for 15 seconds to prevent interupt while upgrading
+cn:每敲击一个按钮后需要等待15秒来防止升级的时候出现一些奇怪的问题.
+
+t_2_10
+en:Now, ready to the next stage!
+cn:现在,来进入一下环节吧!
+
+t_3_1
+en:You are on stage 2 it's The Briefcase Bonus
+cn:你现在正在第二个环节, 这些是随机增益箱.
+
+t_3_2
+en:There are 3 types of briefcase that has it's own bonus
+cn:一共有3种不同类型的增益箱,每一种都有它专属的特点.
+
+t_3_3
+en:Red briefcase will give buff only on the carrier for 180 seconds
+cn:红色公文包样子的增益箱可以让携带者获得180秒的增益.
+
+t_3_4
+en:And also you can drop this briefcase after got it, to saves time cooldown ifself
+cn:而且你还可以直接丢弃,这样增益箱才会重置刷新时间.
+
+t_3_5
+en:This briefcase will give you a powerful such as Ubercharge/Crit/Giant/etc
+cn:这个增益会给你一些十分强力的效果,比如无敌/暴击/巨人/迷你小人.
+
+t_3_6
+en:Black briefcase will get you a aura bonus
+cn:奥元素公文包样子的增益箱会给你些辅助性的效果(它们都是范围性的).
+
+t_3_7
+en:This bonus will be as long as you keep this briefcase
+cn:这些效果会持续到你扔下它或死亡.
+
+t_3_8
+en:You can share this bonus to your friends around you and debuff robots around you
+cn:你可以共享这些增益给你身边的队友,同时也可以对身边的机器人造成影响.
+
+t_3_9
+en:The Bomb briefcase is a powerful buff and can share to friends for a short time
+cn:这个炸弹增益箱可以给予非常强力的效果并且可以在短时间内分享给队友.
+
+t_3_10
+en:But it will not active after carried
+cn:不过扔下后效果就消失了哦!
+
+t_3_11
+en:It will active after you droped it or you were killed
+cn:它们会持续到你扔下它或者死亡.
+
+t_3_12
+en:Go to the next stage
+cn:进入下一环节吧.
+
+t_4_1
+en:This is Area Bonus
+cn:这个是区域增益塔.
+
+t_4_2
+en:It will effect on you as long as you are in it's area
+cn:它会一直提供增益直到你离开它的范围.
+
+t_4_3
+en:But remember the robots also can be effected this too! So don't let robots come in
+cn:但请记住,机器人同样也可以获得增益!所以不要让机器人过来.
+
+t_4_4
+en:This is Pickup Bonus
+cn:这是个小增益道具.
+
+t_4_5
+en:It will effect you when you picked it up and last 15 seconds
+cn:当你拾取它你将获得15秒的增益.
+
+t_4_6
+en:It can be spawned itself when player picked it up for a while
+cn:当玩家拾取后一会就会自动刷新.
+
+t_4_7
+en:Now let's fight the robots for practices bonuses
+cn:现在让我们尝试一下用增益与机器人战斗吧!
+
+t_4_8
+en:Good job! Now let's go to the next stage
+cn:好样的!现在让我们进入下一环节.
+
+t_5_1
+en:Here this is a Room Bonus
+cn:这里是的增益房间.
+
+t_5_2
+en:You can see these bonus board and choose it if it's opened
+cn:你可以选择不同的增益(只要它门是开着的).
+
+t_5_3
+en:All bonuses are last 3 minutes and room's cooldown is 1 minutes
+cn:里面的效果可以维持3分钟,然后房间冷却时间为1分钟.
+
+t_5_4
+en:Let's practice the bonuses by fights a robot
+cn:让我们来试试增益效果吧!
+
+
+t_5_5
+en:and WARNING! This robot is super stronge So the room bonus can help you a lot
+cn:警告!这个机器人十分强大,别忘记使用增益房间的效果.
+
+t_5_6
+en:Very nice! Let's go the next stage
+cn:完美!让我们进入下一个环节.
+
+t_6_1
+en:This is the job room or the mannpower room
+cn:这里是曼恩能力或者叫"job"房间.
+
+t_6_2
+en:you can see this board and choose as same as room bonus
+cn:你可以在旁边的牌子跟增益房间一样了解详细的信息.
+
+t_6_3
+en:You can get mannpower for permanently and the room will be cooldown for 4 minutes after got it
+cn:你可以获得永久的曼恩能力,当你进去时,大门将会关闭,然后冷却4分钟.
+
+t_6_4
+en:This teleport mark also let engineer build at this location
+cn:这个传送门标记可以提醒工程师记得放传送.
+
+t_6_5
+en:It will give you a random mannpower every time you used teleport
+cn:同时每当在这里使用传送都有可能得到随机曼恩能力.
+
+t_6_6
+en:But there is a small chance to get them So you may not have your favorite mannpower
+cn:这个几率十分小,而且可能不是你想要的.
+
+t_2_5
+en:Let's go the next stage!
+cn:让我们进入下一环节吧!
+
+t_7_1
+en:This is the Button Bonus
+cn:这里是一个随机抽奖的增益房间.
+
+t_7_2
+en:You can attack at a button to get a random effects and you can keep get it everytime
+cn:你可以不断用近战武器按钮来获得各种效果.
+
+t_7_3
+en:There are good or bad or rare effect so uses it carefully
+cn:这里有各种各样的效果,有好的,也有不好的,小心点用哦!
+
+t_7_4
+en:And this is the Supermann Bonus
+cn:这里是超人复活点.
+
+t_7_5
+en:Some maps will has this bonus / there is small chance to spawns here
+cn:某些地图才会有这个东西.你会有十分小的机会在这里复活.
+
+
+t_7_6
+en:If you are the one who lucky spawns at here then you will become overlord for 2 minutes
+cn:如果你十分幸运的在这里复活.你会有2分钟的超人效果.
+
+t_7_7
+en:Go to the next stage
+cn:去一个环节吧.
+
+t_8_1
+en:This is the Attribute Exchange Bonus
+cn:这里属性交易站.
+
+t_8_2
+en:You can see this board and choose as you want... Use your melee hit the button
+cn:你可以在了解如何交易,用近战武器来敲击对应数字下的按钮.
+
+t_8_3
+en:But first! becareful of your upgrade! Don't choose which you already have your upgrade
+cn:但是首先!确认一下你的升级!不要选跟你已经购买的升级有关的属性!不然会覆盖掉你的升级!
+
+t_8_4
+en:Or you will lost your upgrade forever
+cn:然后效果时间一过,你之前的升级就跟你说拜拜了.
+
+t_8_5
+en:Now the next stage is the last stage
+cn:现在进入最后一个环节吧!
+
+t_9_1
+en:Some maps there is a bumper car
+cn:某些地图这里会有跳跳车.
+
+t_9_2
+en:And for that! this is a begining tutorial how to use a car on MA
+cn:所以!我们要教你如何正确在MA里食(使)用跳跳车.
+
+t_9_3
+en:Pick a Parachute Spell and use it to crosses
+cn:使用这些魔法书可以帮助穿过这些机关.
+
+t_9_4
+en:Pick a Uber Spell and use it to passes these arrow
+cn:抽一个无敌出来让你穿过箭雨.
+
+t_9_5
+en:Dashs here to go that way!
+cn:就是在这里冲刺!
+
+t_9_6
+en:Good Job! You passed all practices and it's time to a real playing MA
+cn:好样的!你通过了所有训练,是时候出发了!体验真正的MA.
+
+t_9_7
+en:The door will be opened in 20 seconds but if you need to practice agian then stand here for 6 peoples
+cn:大门会在20秒之后打开.如果你需要重来,那么请6个人站在前面的台阶里.
+
+t_9_8
+en:Let's choose episode you want and it will change within 10 seconds
+cn:选择你想玩的章节并等待10秒钟吧.
+
+t_Continue
+en:To be Continue for Ep 1
+cn:未完待续.准备进入EP1.

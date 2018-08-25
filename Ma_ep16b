@@ -1,0 +1,241 @@
+mvm_ma_Ep16b_2_cn
+
+t_1_1
+en:Gray : Well done! I saw you can pass my trials, But it isn't over yet
+cn:格雷:很好!我看见你们通过了我的挑战,但是还没结束呢.
+
+t_1_2
+en:Gray : To challenge me! The important! You must pass one more thing!
+cn:格雷:要挑战我!还有一个重要的事情!你们必须再通过一件事!
+
+t_1_3
+en:Gray : You will fight against our champions at The Gray Arena
+cn:格雷:你们要跟我们在格雷竞技场的冠军决斗.
+
+t_1_4
+en:Gray : If your score is higher than robot's score, You win! and can come challenge me
+cn:格雷:如果你们的比分高于机器人的比分,那你就赢了!并且可以过来挑战我.
+
+t_1_5
+en:Gray : But If your score is lower than them, You will never face me again!
+cn:格雷:但是如果你们的比分低于它们的话,你将永远也见不到我.
+
+t_need_people_upgrade
+en:You need your peoples to reach here for 3 peoples
+cn:你需要3个人到达这里.
+
+t_2_1
+en:Announcer : Hallo Everyone!! Today we have very special fight, It's not just a normal fight
+cn:广播:大家好!!今天我们有一场十分特殊的战斗,不是一个普通的决斗.
+
+t_2_2
+en:Announcer : Because! We have those humans, Yes! It's a fighting between robot and human!!
+cn:广播:因为!我们有这些人类!是的!这是一场机器人于人类的决斗!!
+
+t_2_3
+en:Announcer : Our total round is 5 rounds, each round we will choose different number of fighter
+cn:广播:我们总共有五局,每局都会随机选择战斗的人数.
+
+t_2_4
+en:Announcer : Which team will has highest score, that team will be win!!
+cn:广播:获得最高分的团队将会赢得这场比赛!!
+
+t_2_5
+en:Announcer : Everyone ready!? Now, The Fighting is Begin!!  WOOOooooo
+cn:广播:各位准备好了!?现在让我们开始比赛吧!!喔喔喔.
+
+t_arena_1
+en:Announcer : We are now, The Round One!!
+cn:广播:现在!第一局!!
+
+t_arena_2
+en:Announcer : Next is , Round Two!!
+cn:广播:下一个,第二局!!
+
+t_arena_3
+en:Announcer : Don't go anywhere , We have a Round Three waiting for you!
+cn:广播:不要走开,我们还有第三局等着你们!
+
+t_arena_4(Next time和Almost意思重复)
+en:Announcer : For now , The Round Four! And We Almost to the Final Round for a Next Time!!
+cn:广播:目前,第四局了!而且我们快要到了最后一局!!
+
+t_arena_5
+en:Announcer : The Final Round , The Round Five!! , Which is the greatest round of this Fight!
+cn:广播:最后一局,第五局!!最精彩的一局!
+
+t_member_arena_1
+en:Announcer : It's a fight between 1 VS 1, Let's choose the fighter!
+cn:广播:这个是一对一的决斗,让我们选出自己的决斗者吧!
+
+t_member_arena_2
+en:Announcer : It's a fight between 1 VS 1, Let's choose the fighter!
+cn:广播:这个是二对二的决斗,让我们选出自己的决斗者吧!
+
+t_member_arena_3
+en:Announcer : It's a fight between 1 VS 1, Let's choose the fighter!
+cn:广播:这个是三对三的决斗,让我们选出自己的决斗者吧!
+
+t_arena_ready
+en:Announcer : Everyone! Ready for a fight!! It will begin in 10 seconds!
+cn:广播:各位!准备好战斗了吗!!10秒钟后将正式开始!
+
+t_arena_begin
+en:Announcer : 3...2...1...  Let's the match! BEGIN!!!
+cn:广播:三....二...一....让我们的比赛!开 始!!!
+
+t_arena_blu_win
+en:Announcer : Finally! Our robot team is WIN!! We Are Strongest!!
+cn:广播:终于!我们的机器人团队赢了!!我们是最强壮的!!
+
+t_arena_red_win
+en:Announcer : Unbelivenable! The Mann Team is WIN!!
+cn:广播:难以置信!曼恩队赢了!!
+
+t_f_1
+en:Gray : Well... I thought you all are best, Disappointed, You will never face me foreve
+cn:格雷:好吧...我相信你们尽力了,十分失望,你们将永远见不到我.
+
+t_f_2
+en:Gray : Good... Now I trush you can challenge me now, Go through the path, And get to the elevator
+cn:格雷:好吧...现在我相信你们能够挑战我了,现在走过那条路,然后坐上电梯.
+
+t_3_1
+en:Gray : Finally, You found me! And now it's time to finish,Isn't it?
+cn:格雷:终于,你们找到我了!现在是时候了解了,不是吗?
+
+t_3_2
+en:Gray : You know? What happen if I hold everythings on this world
+cn:格雷:你知道如果我掌握了世界上的所有东西会发生什么呢?
+
+t_3_3
+en:Gray : And If I hold the Mann Co, I wish to create a new things!
+cn:格雷:还有如果我掌握了曼恩公司,我希望创造一些新的东西!
+
+t_3_3_2
+cn:(吐槽V社已经很久都没出新东西了)
+
+t_3_4
+en:Gray : See? On the Team Fortress, It's only has 2 teams, isn't it? , It bored me
+cn:格雷:看到没?在TF世界里面,只有2个团队.不是吗?这对于我来说有点无聊.
+
+t_3_5
+en:Gray : I will create a new team , Gray Team!, Which you can kill anyone in your sight , Called Death Match
+cn:格雷:我将创造一个新的团队,格雷队!可以杀死它们眼前的所有人,称之为死亡竞赛.
+
+t_3_6
+en:Scout : Sound good, But we still don't let you to do anythings
+cn:侦察兵:听起来不错,但是我们还是不会让你做出任何的动作.
+
+t_3_7
+en:Gray : Why? I can do anythings more if I hold a Mann Co, Aren't you interesting?
+cn:格雷:为什么?如果我掌握了曼恩公司,我可以做更多的东西,难道你不感兴趣吗?
+
+t_3_8
+en:Gray : Such as, Creates and gives you more new weapons and items every weeks, or increase drop rate for every items
+cn:格雷:例如,研发更多的新的武器,并且每个星期给你们更多的物品,或者增加物品的掉落率.
+
+t_3_9
+en:Gray : And I also will add a 10th class to this game too! Aren't you interesting?
+cn:格雷:并且我还会添加第十个职业到这个游戏里!难道你还是不感兴趣吗?
+
+t_3_10
+en:Soldier : I don't trust you, You lie us, It will be bad if we let you do that
+cn:士兵:我不会相信你的,你在跟我们撒谎,如果我们让你随意去做那么肯定会出坏事情.
+
+t_3_11
+en:Gray : I don't lie you, You know? On this world has already been captured by my robots
+cn:格雷:我不骗你,你知道吗?这个世界已经全部被我的机器人占领了.
+
+t_3_12
+en:Gray : You see that and you still stand against me? I suggest you all should give up
+cn:格雷:当你知道这些的时候,你还会反对我吗?我建议你们全部人都放弃吧.
+
+t_3_13
+en:Heavy : We will not GIVE UP! and We will destroy you before you will do anythings worse!
+cn:机枪手:我们不会放弃的!在事情变得更糟糕之前我们将摧毁你的邪恶计划.
+
+t_3_14
+en:Gray : We will see about that, Let's go!
+cn:格雷:我们会看到的,来吧!
+
+t_3_15
+en:Medic : Shoots the glass at Gray Mann!
+cn:医生:射向格雷的那个玻璃!
+
+t_4_2
+en:Gray : C'mon! My reinforcement! Destroyes them all!
+cn:格雷:来吧!我的奴隶!将他们全部摧毁!
+
+t_4_3
+en:Gray : Tastes the arrows from above!
+cn:格雷:试试上面的弓箭吧!
+
+t_4_4
+en:Gray : The laser will cut through your skin
+cn:格雷:激光会切过你的皮肤.
+
+t_4_5
+en:Gray : Damn! I thought should release my some upgraded robots on you
+cn:格雷:该死!我应该用上正式版的升级机器人.
+
+t_4_6
+en:Gray : Stun! Mean be DEAD for you all
+cn:格雷:眩晕!对于你们来说意味着死 亡.
+
+t_4_7
+en:Gray : Don't you just give up? My robots won't give up too, BUFF!!
+cn:格雷:还不放弃?我的机器人同样不会放弃,增益!
+
+t_4_8
+en:Gray : STOP and ENOUGH FOR THIS, Here! Let's me use poison gas!
+cn:格雷:够了,是时候停止了,来!,让我用上毒气!
+
+t_5_1
+en:Gray : Why.....why am I lose...... this is impossible
+cn:格雷:为...为什么我输了...这不可能.
+
+t_5_2
+en:Gray : Really?......have I already lost?......hahahaha
+cn:格雷:真的?....我已经输了?....哈哈哈.
+
+t_5_3
+en:Gray : But I still not give up!, If there is a next time , I will destroy you all
+cn:格雷:但是我不会放弃的!如果还有下一次,我会全部杀掉你们.
+
+t_5_4
+en:Spy : We finally did it!! even Gray is still not dead
+cn:间谍:我们终于做到了!!尽管没有格雷没有死.
+
+t_5_5
+en:Medic : A question is..... what's our next move? The robots are taking over the world
+cn:医生:还有一个问题....我们接下来该去哪里?机器人正在占领整个世界.
+
+t_5_6
+en:Scout : The robots are anywhere, We should go out to clear them all
+cn:侦察兵:机器人到处都是,我们应该一路都清掉它们.
+
+t_5_7
+en:Sniper : Then....What are you waiting for?...Let's go! To anywhere that robots exist
+cn:狙击手:然后...我们还在等什么?...出发吧!...去每一个机器人逃离的地方.
+
+t_end
+en:The End
+cn:完结.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

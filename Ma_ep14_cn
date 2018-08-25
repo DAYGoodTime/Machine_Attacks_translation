@@ -1,0 +1,318 @@
+Ma_ep14_2_cn.lang
+
+T_标题
+en:Chapter 14 : Welcome to Mann City
+cn:第十四章:欢迎来到曼恩城!
+
+t_1_1
+en:Soldier:We reached! The Mann City!
+cn:士兵:我们到了!曼恩城!
+
+t_1_2
+en:Engineer: Nope! It's not Mann City , This is Mann City Zone C
+cn:工程师:不!这里还不是曼恩城,这里是曼恩城的C区.
+
+t_1_3
+en:Scout: Oh Yeah! That's right! Here we are Zone C
+cn:侦察兵:哦对也!说的对!我们现在只是在C区而已.
+
+t_1_4
+en:Heavy: I think no body in this city, but except for robots
+cn:机枪手:我觉得这座城市除了机器人之外已经没有人类了.
+
+t_1_5
+en:Scout: Everyone! I hear sound come from the right way! Somethings are fighting!
+cn:侦察兵:大家小心!我听到了从那边传来的声音!是战斗的枪声!
+
+t_1_6
+en:Soldier: They are fighting, We must help those rebel robots, Let's go!
+cn:士兵:他们正在战斗,我们必须要去帮助这些叛逆的机器人,出发吧!
+
+t_1_7
+en:Robot Soldier : What? Why are humans here? You are not suppose to be here
+cn:(红队)机器士兵:什么?为什么还有人类在这里?你们不应该呆在这里!
+
+t_1_8
+en:Soldier :So, You are those rebel robots?
+cn:士兵:所以,你是那些叛逆的机器人吗?
+
+t_1_9
+en:Robot Soldier : Yes, And Why are you still here? You should get out of this city now!
+cn:(红队)机器士兵:是的,不过为什么你们还在这里?你们应该马上离开这座城市!
+
+t_1_10
+en:Robot Soldier : This city has already belonged to those Gray's robots
+cn:(红队)机器士兵:这座城市已经属于格雷的机器人了.
+
+t_1_11
+en:Spy: Why did you not escape? When you know they are here
+cn:间谍:为什么你不逃跑呢?你是什么时候知道他们占领这里的?
+
+t_1_12
+en:Robot Soldier : We tried to escape ,escape and escape until we are on low battery!
+cn:(红队)机器士兵:我们尝试着逃跑,一直跑,一直跑,直到我们已经没有足够的电了.
+
+t_1_13
+en:Robot Soldier : And they still hunt us , So we have no choice unless we must fight them here
+cn:(红队)机器士兵:而且他们还在攻击我们,所以我们只能选择和他们一战到底了.
+
+t_1_14
+en:Robot Soldier : Now as you see, We lost others and now only 3 of us against them
+cn:(红队)机器士兵:现在正如你所见,我们其他同胞都死去了,只剩下3个人来反抗.
+
+t_1_15
+en:Scout :Uh man..... We are too late, If we come here faster atleast we could save some of your friends
+cn:侦察兵:哦,糟糕....我们来的太迟了,如果我们能来的快一点的话至少还能拯救一下你的队友.
+
+t_1_16
+en:Robot Soldier : Don't be regret, Before that! we need to prepare fighting those robots , they are comming now
+cn:(红队)机器士兵:不用后悔了,在那之前!我们先要把这些机器人解决掉,他们将要来了.
+
+t_1_17
+en:Heavy: Don't worry! We destroyed over 9000 robots than you think, Let's us go!
+cn:机枪手:不用担心!出乎你的所料,我们已经摧毁了9000多个的机器人,出发吧!
+
+t_1_18
+en:Soldier : All clear! Robots are destroyed!
+cn:士兵:搞定!全部机器人都被摧毁了!
+
+t_1_19
+en:Robot Soldier : Thank you, now tell us, why do you need to help us?
+cn:(红队)机器士兵:十分谢谢你,现在告诉我们,为什么需要帮助我们?
+
+t_1_20
+en:Engineer: We need to find the way to Grey's main base
+cn:工程师:我们需要找到办法格雷的主基地.
+
+t_1_21
+en:Robot Soldier : Yes, we can but it's so difficult to reach there
+cn:(红队)机器士兵:没错,我们可以帮你们,但是要到达那里十分困难.
+
+t_1_22
+en:Robot Soldier : But we have a shortcut to reach there,Let me tell you inside our base
+cn:(红队)机器士兵:但是我们有捷径可以去到那里.让我到基地里面告诉你们.
+
+t_2_1
+en:Robot Soldier : Those robot are coming from that castle,There is gas around on the castle
+cn:(红队)机器士兵:这些机器人正在从堡垒中过来,但是许多毒气围绕着这座堡垒.
+
+t_2_2
+en:Robot Soldier : We need to clear that gas first and I know how to do that
+cn:(红队)机器人:我们需要首先清理这些毒气,我知道要怎么做.
+
+t_2_3
+en:Robot Sniper : I see something coming! It's a BATTLE SHIP!, We got a problem now
+cn:(红队)机器士兵:我看到有什么东西过来着!是飞船!我们现在有麻烦了.
+
+t_2_4
+en:Robot Soldier : Holy Shit! You need to destroy it before it destroys us now!
+cn:(红队)机器士兵:糟糕!你需要去摧毁它们不然我们就被摧毁了!
+
+t_guide1
+en:You can kill robots on the map to gains level and bonus
+cn:你可以通过在这张地图击杀机器人获得经验值.并且获得一些增益.
+
+t_guide2
+en:Or starts next mission,Talk near soldier bot for 2 peoples
+cn:要开始下一个任务,需要2个人在机器士兵旁边接任务.
+
+t_guide3
+en:To interact something like buttons items etc, Use your melee hit an object
+cn:要收集某个物品就跟按按钮一样,用你的近战武器敲击那个物品.
+
+t_3_1
+en:Robot Soldier : So you destroyed that ship? Good! now let's continue our plan
+cn:(红队)机器士兵:所以你们摧毁了那些飞船?干得好!现在让我们继续我们的计划.
+
+t_3_2
+en:Robot Soldier : But... I am so on low battery right now, Other of us are same like me
+cn:(红队)机器士兵:但是...我们现在的电量十分,其他伙伴跟我一样.
+
+t_3_3
+en:Robot Soldier : I need you to find Fuel gas, batteries and Metal scrapes
+cn:(红队)机器士兵:我需要你们帮我找到燃油,电池还有一些废金属.
+
+t_3_4
+en:Robot Soldier : Fuel gas can find at JimiJam Shop, Batteries at Farm
+cn:(红队)机器士兵:燃油可以在JimiJam商店里找得到,电池在农场里面.
+
+t_3_5
+en:Robot Soldier : And metal scrap can find at floor 6 room2 of Manko Hotel
+cn:(红队)机器士兵:废金属可以在废弃的酒店里找到,应该在第六层第二个房间.
+
+t_3_6
+en:Robot Soldier : Now go! Before we are out of battery!
+cn:(红队):赶紧出发!在我们完全没电前回来!
+
+t_mission3_required_material
+en:Find Fuel gas/ Batteries/Metal scraps
+cn:寻找燃油和电池还有废金属.
+
+t_3_7
+en:Robot Soldier : Well done everyone! Now we can fill our battery right now
+cn:(红队)机器人:各位干得好!现在我们可以给我们的电池充电了.
+
+t_4_1
+en:Robot Soldier : Alright! Now we are going to talk about the castle's gas
+cn:(红队)机器士兵:好的!现在我们来谈谈城堡里面的毒气.
+
+t_4_2
+en:Robot Soldier : The only way to removes castle's gas is..... mixs the potions
+cn:(红队)机器士兵:除去城堡里的毒气唯一办法是....做一些药水.
+
+t_4_3
+en:Soldier :What? A potion? Why won't we find the source and destroys it?
+cn:士兵:什么?一瓶药水?为什么不直接找到源头然后摧毁它?
+
+t_4_4
+en:Robot Soldier : Do you think if you destroyed the source and the gas will be removed?
+cn:(红队)机器士兵:你觉得摧毁源头就能移除毒气了吗?
+
+t_4_5
+en:Robot Soldier : No... the gas won't be removed and take a month untill it was removed
+cn:(红队)机器士兵:不会的..这些毒气至少需要1个月才能移除掉.
+
+t_4_6
+en:Robot Soldier : So... The right way is drinks the potion, I know how to mixs them
+cn:(红队)机器士兵:所以...正确的方法是喝下这些抗毒药水,我知道如何制作.
+
+t_4_7
+en:Robot Soldier : You need to find a cactus at the farm , A pumpkin in box at mini-room near our base
+cn:(红队)机器士兵:你需要在农场里找到仙人掌,一个在基地附近的小房间里面的盒子里的南瓜.
+
+t_4_8
+en:Robot Soldier : The mushrooms at the garden beside the beer store
+cn:(红队)机器士兵:蘑菇在酒吧旁边的花园.
+
+t_4_9
+en:Robot Soldier : And the last is a yellow potion , But I don't sure where is it
+cn:(红队)机器士兵:还有最后一个黄色液体的东西,但是我不清楚它在那.
+
+t_4_10
+en:Robot Soldier :Perhaps it will be around town B.....Alright let's go
+cn:(红队)机器士兵:也许在B区附近...就是这样,出发吧!
+
+t_mission4_required_material
+en:Find Cactus/Pumpkins/Mushrooms/Yellow Potion
+cn:寻找仙人掌和南瓜,蘑菇还有一个黄色液体.
+
+t_4_11
+en:Robot Soldier : Finally! Now wait for a moment, I need to mix the potion now, Come back to me later
+cn:(红队)机器士兵:很好!等我一下,我需要搅拌一下这些药水,等一下我就回来.
+
+t_5_1
+en:Robot Soldier : I mixed the potions, Now drink it, And... do you see our scout?
+cn:(红队)机器士兵:我混合了药水,现在喝下吧,还有..你看见了我们的(机器)侦察兵了吗?
+
+t_5_2
+en:Scout :No....but if you mean human scout then I'm here
+cn:侦察兵:没有..但是你说的是人类侦察兵的话,那我在这里.
+
+t_5_3
+en:Robot Sniper : I saw him was captured by those robots and go into the castle!
+cn:(红队)机器狙击手:我看见他被那些机器人抓了,并且把他带进城堡里面!
+
+t_5_4
+en:Robot Soldier : WHAT! DAMNIT! Now we need to go the castle quickly , GO GO GO!
+cn:(红队)机器士兵:沃特?!糟糕!现在我们需要赶紧去城堡,冲冲冲!
+
+t_5_5
+en:Robot Scout : Finally! You have come, I thought those robot would break in here!
+cn:(红队)机器侦察兵:你们终于来了!我以为是那些机器人冲进来了!
+
+t_5_6
+en:Robot Scout : I was captured, but I can escaped from robots, also I stealed some infomation
+cn:(红队)机器侦察兵:我被抓了,但是我逃离那些机器人,同时我还得到了一些信息.
+
+t_5_7
+en:Robot Scout : I locked myself here from those robots, And I hide that infomation if those robots can broke in
+cn:(红队)机器侦察兵:我在这里锁住自己,我把这些信息藏起来以防机器人冲进来.
+
+t_5_8
+en:Robot Scout : Sorry, I'm gonna die, I can't get that infomation for you, I hope you can find it
+cn:(红队)机器侦察兵:对不起了,我马上就去世了,我不能直接把信息告诉你们,希望你能找到它.
+
+t_5_9
+en:Robot Scout : It's below somewhere of these crates , And............[Shuting Down]
+cn:(红队)机器侦察兵:在这些箱子的地下,并且哔-------------[倒下].
+
+t_5_10
+en:Engineer: Sorry that we can't help you, Now find that infomation!
+cn:工程师:对不起我们救不了你,现在去找那个信息!
+
+t_5_11
+en:Robot Soldier : Uh...damn it, We lost scout, But it's good that we have this infomation, I need a time to reads this
+cn:(红队)机器士兵:啊...糟糕,我们死去了侦察兵(机械),但是好消息是我们有了这个信息,我需要一些时间去阅读一下.
+
+t_6_1
+en:Robot Soldier : I readed this infomation, It's about open the gate to zone B
+cn:(红队)机器士兵:我已经读完了这个信息,是关于打开B区大门的信息.
+
+t_6_2
+en:Robot Soldier : If you want to go Gray's base then the only way is to zone B
+cn:(红队)机器士兵:如果你先去格雷的基地,那么唯一的方法就是去B区.
+
+t_6_3
+en:Robot Soldier : But only robots can open the gate by using their language, So only us to opens it
+cn:(红队)机器士兵:但是只能机器人打开着扇大门,因为要使用机器人的语言,所以只有我们能打开它.
+
+t_6_4
+en:Robot Soldier : We will meet you there, Let's go to the gate B
+cn:(红队)机器士兵:我们在那等着你们,出发去B区大门吧.
+
+t_6_5
+en:Robot Soldier : Alright everyone, Let see what happen, I'm gonna speak robot language now
+cn:(红队)机器士兵:好的,让我看看发生了什么,我将要说机器人的语言了
+
+t_6_6
+en:Robot Soldier : 01110000010101001010010101010101010101011111000101
+cn:Robot Soldier : 01110000010101001010010101010101010101011111000101(二进制数字)
+cn2:十进制数字:14723402
+
+t_6_7
+en:Robot Soldier : Hmm this is a gate's controller , I need to connect this to open it
+cn:(红队)机器士兵:emm这个是大门控制器,我需要链接它来打开大门.
+
+t_6_8
+en:Robot Soldier : It will take for 5 minutes, Sniper and I need to be covered
+cn:(红队)机器士兵:大概要花5分钟,你们需要掩护我和狙击手.
+
+t_6_9
+en:Robot Soldier : Don't let any robots attack us while we are connecting the gate, DEFEND THIS AREA!!!
+cn:(红队)机器士兵:不要让任何一个机器人攻击当我们在链接这座大门的时候,防 御 这 座 区 域!!
+
+t_6_10
+en:Robot Soldier : The Gate is Opened!! GO Everyone! GO TO Zone B!!!!
+cn:(红队)机器士兵:大门打开了!!大家快进去!快去B区!!!!
+
+t_2_1
+en:
+cn:
+
+t_2_1
+en:
+cn:
+
+t_2_1
+en:
+cn:
+
+t_2_1
+en:
+cn:
+
+t_2_1
+en:
+cn:
+
+t_2_1
+en:
+cn:
+
+t_2_1
+en:
+cn:
+
+t_2_1
+en:
+cn:

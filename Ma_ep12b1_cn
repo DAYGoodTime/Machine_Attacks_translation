@@ -1,0 +1,73 @@
+Ma_ep12b1_2_cn.lang
+
+t_Tile
+en:none
+cn:none
+
+t_create
+en:Machine Attacks create by Yourclan(Redmyclan)
+cn:Machine Attacks由Yourclan(Redmyclan)制作.
+
+t_1_1
+en:Spy : So close! If we didn't escape, we died
+cn:间谍:好险!如果我们刚才不马上逃离,我们就死了.
+
+t_1_2
+en:Sniper : So, What's our next move?
+cn:狙击手:所以我们接下来去那?
+
+t_1_3
+en:Engineer : We should go to Gray's main base, take these bumper cars and goes
+cn:工程师:我们需要去格雷的主基地,开上这些蹦蹦车出发吧.
+
+t_1_4
+en:Spy : Here, I get the radio from Reaper Spy, Listens it everyone
+cn:间谍:看,我拿到了间谍收割者的通话记录,大家来听听.
+
+t_1_5
+en:Gray : *Radio Signal* Metalgen.....We have a plan to attacking a city
+cn:格雷:*(无线电噪音)*:Metalgen...我们计划去攻击一个城市.
+
+t_1_6
+en:Gray : Some robots are bretrayer, We need to destroy them at Mann City
+cn:格雷:一些机器人背叛了我们,我们需要在曼恩城那解决掉他们.
+
+t_1_7
+en:Gray : I have prepare my robots to attackes them, So you should come to fights them
+cn:格雷:我们已经准备好了机器人军队去攻击他们,所以你过来支援一下他们.
+
+t_1_8
+en:Metalgen : Yes, My master.....Ahh I see Blue Spy is escaping, I will kill him
+cn:Metalgen :了解,我的主人....等等我看到一个蓝队的间谍正在想逃离,我现在过去杀掉他.(ep10)
+
+t_1_9
+en:Spy : That's all, We should go and helps robots those betrayed GrayMann
+cn:间谍:这就是通话的内容了,我们应该过去帮助那些准备给格雷杀掉的机器人.
+
+t_1_10
+en:Engineer : Yeah, We will fight together with those robots, Come on , Everyone!
+cn:工程师:嗯,我们可以让他们和我们一起合作,出发吧伙计们!
+
+t_dh
+en:You must reach the goal within 3 minutes, If fail,Will be started all again!
+cn:你必须要在三分钟内到达终点,如果失败了,将会重来.
+
+t_dh_2
+en:3....2....1
+cn:三.....二....一...!
+
+t_dh_3
+en:GO!!!!
+cn:出发!!!!
+
+t_dh_4
+en:TIME OUT!!
+cn:时间到了!!
+
+t_continue_ap_fool
+en:WOO!! YEAHHH!! EP13 IS OUT NOW!! LET'S GO LET'S GO LET'S GO
+cn:喔!!耶!!EP13(汉化)已经出了!!让我们赶紧出发!!(其实是愚人节彩蛋).
+
+t_go_to_part2
+en:Prepare to play part2 of bumper car map
+cn:准备去一下一部分开车了.

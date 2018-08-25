@@ -1,0 +1,96 @@
+//情报箱增益所带来的效果列表汉化
+//但是因为实际汉化效果不佳且没有其他办法,所以放弃.
+
+t_bonus_bomb1
+en:You got ubercharge bomb
+cn:你获得了无敌的效果.
+
+t_bonus_bomb2
+en:You got crit damage bomb
+cn:你获得了攻击都是暴击的效果.
+
+t_bonus_bomb3
+en:You got attack speed bomb
+cn:你获得了极速的效果.
+
+t_bonus_bomb4
+en:You got damage area bomb
+cn:你获得了范围攻击的效果.
+
+t_bonus_bomb5
+en:You got stun bomb
+cn:你获得了可以击晕敌人的效果.
+
+t_bonus_buff1
+en:You become Ubercharge for 180s
+cn:你获得了180秒的无敌.
+
+t_bonus_buff2
+en:You become SuperSpeeding for 180s
+cn:你获得了180秒的加速的效果.
+
+t_bonus_buff3
+en:You become Critical Damage for 180s
+cn:你获得了持续180秒攻击都是暴击的效果.
+
+t_bonus_buff4
+en:You become Giant for 180s
+cn:你变成了巨人,持续180秒.
+
+t_bonus_buff5
+en:You got A LOT OF MONEY!!
+cn:你获得了一 大 堆 钱!!
+
+t_bonus_buff6
+en:You become Extreme Invisable
+cn:你获得了高级隐形效果.
+
+t_bonus_aura_buff1
+en:You got Overheal Buffing
+cn:你获得了超量治疗.
+
+t_bonus_aura_buff2
+en:You got 75% Resistance Buffing
+cn:你获得了抵消75%的伤害的效果.
+
+t_bonus_aura_buff3
+en:You got All Soldier Buffing
+cn:你获得了所有士兵旗子的增益.
+
+t_bonus_aura_buff4
+en:You got 75% Avoid Buffing and Spawn Point
+cn:你获得了75%的几率躲避伤害的的效果还有一次复活的机会.
+
+t_bonus_aura_buff5
+en:You got Robot Stunner Aura
+cn:你获得了周围机器人都会恐惧你的效果.
+
+t_bonus_aura_buff6
+en:You got Damage Aura
+cn:你获得了范围攻击的效果.
+
+t_bonus_aura_buff7
+en:You got Crit Weakness Aura
+cn:你获得了弱点暴击的效果范围.
+
+t_bonus_aura_buff8
+en:You got Dispenser
+cn:你获得了一个随身补给器.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

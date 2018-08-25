@@ -1,0 +1,111 @@
+//抽奖台所获得的增益列表
+
+t_bonus_button_r1
+en:Rare: You become Ubercharge for 60s
+cn:稀有:你获得了60秒的无敌.
+
+t_bonus_button_r2
+en:Rare: You become Critical Damage for 60s
+cn:稀有:你获得了60秒的暴击.
+
+t_bonus_button_r3
+en:Rare: You become SuperSpeeding for 60s
+cn:稀有:你获得了60秒的极速效果.
+
+t_bonus_button_r4
+en:Rare: You become Invisable for 60s
+cn:稀有:你获得了60秒的隐形效果.
+
+t_bonus_button_r5
+en:Rare: You become Giant for 60s
+cn:稀有:你变成了巨人并持续60秒.
+
+t_bonus_button_r6
+en:Rare: You got to be Random Job for 60s
+cn:稀有:你将获得60秒随机的曼恩能力(Job).
+
+//after EP8
+t_bonus_button_r7
+en:Rare: You got 500 prices
+cn:稀有:你获得了500块钱.
+
+t_bonus_button_b1
+en:Bad: You got Jarate for 60s
+cn:减益:你获得了60秒的狙击手尿瓶效果.
+
+t_bonus_button_b2
+en:Bad: You got MadMilk  for 60s
+cn:减益:你获得了60秒的疯狂的牛奶的效果.
+
+t_bonus_button_b3
+en:Bad: You can't switch from melee for 60s
+cn:减益:你在60秒内都只能使用近战武器,不能切换武器.
+
+t_bonus_button_b4
+en:Bad: You got Bonk Atomic for 60s
+cn:减益:你获得了60秒的原子能效果.
+
+t_bonus_button_b5
+en:Bad: You are Dead!
+cn:减益:当 场 去 世!
+
+//after EP8
+t_bonus_button_b6
+en:Bad: You are burned
+cn:减益:你被点燃了.
+
+t_bonus_button_g1
+en:Good: You got Sniper Buff for 60s
+cn:增益:你获得了60秒的聚焦的效果.
+
+t_bonus_button_g2
+en:Good: You got Healing Aura for 60s
+cn:增益:你获得了60秒的范围治疗的效果.
+
+t_bonus_button_g3
+en:Good: You are Maximum Speed for 60s
+cn:增益:你获得了60秒最大移动速度的效果.
+
+t_bonus_button_g4
+en:Good: You got Minicrit Buff for 60s
+cn:增益:你获得了60秒的迷你暴击攻击效果.
+
+t_bonus_button_g5
+en:Good: You got Resistance Buff for 60s
+cn:增益:你获得了60秒的抗性增益效果.
+
+t_bonus_button_g6
+en:Good: You got Heal on Hit Buff for 60s
+cn:增益:你获得了60秒的吸血效果.
+
+t_bonus_button_g7
+en:Good: You got 75% Avoid Rate for 60s
+cn:增益:你获得了75%的几率躲避伤害的的效果,持续60秒.
+
+t_bonus_button_g8
+en:Good: You become Smaller for 60s
+cn:增益:你将变成小人,持续60秒.
+
+t_bonus_button_g9
+en:Good: You got All 75% Resistance for 60s
+cn:增益:你获得了抵消75%的伤害的效果.
+
+t_bonus_button_g10
+en:Good: You become Overhealed
+cn:增益:你将一直超量治疗.
+
+//after EP8
+t_bonus_button_g11
+en:Good: You got 100 prices
+cn:增益:你获得了100块.
+
+
+
+
+
+
+
+
+
+
+

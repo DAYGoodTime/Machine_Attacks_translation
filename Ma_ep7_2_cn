@@ -1,0 +1,221 @@
+Ma_ep6_2_cn.lang
+
+t_标题
+en:Chapter 7 : The Trial
+cn:第七章:审判.
+
+t_1_1
+en:Scout: Man, We almost die from that explosion
+cn:侦察兵:我的天,我们差点死在刚才的爆炸中.
+
+t_1_2
+en:Sniper: What is this place? Too many broken vehicles
+cn:狙击手:这里是那里?好多坏掉的汽车.
+
+t_1_2
+en:Spy: We need to know about robot's plan, Before it's too late
+cn:间谍:我们需要知道机器人的计划,不然就太迟了.
+
+t_1_2
+en:Demoman: Right...we will stop them at anyway
+cn:爆破手:对,我们不管怎么样都要阻止他们.
+
+t_1_2
+en:Spy: I hope we can catch some of them and asks them
+cn:间谍:我希望我们能抓到他们其中一个然后可以审问他来知道机器人的计划.
+
+t_1_2
+en:Heavy: Shoot the wood gate and let's go!
+cn:机枪手:射击这木门然后出发吧!
+
+t_2_1
+en:Soldier : Alert! Tank's comming, Destroy it
+cn:士兵:小心!坦克冲过来了,摧毁它!
+
+t_2_2
+en:Spy: Becareful that Reaper Sniper!!
+cn:间谍:小心那个狙击收割者!!
+
+t_2_3
+en:Sniper: I know where they are, the batteries are at our start!!
+cn:狙击手:我知道电池在哪里,电池就在家和旁边!!
+
+t_tf_1
+en:Watch Out!! This is the mine zone!
+cn:小心,这里都是地雷!
+
+t_tf_2
+en:You need battery to turn on this button
+cn:你需要电池来启动机关.
+
+t_2_1_1
+en:Scout: We finally make the gate be opened, GO Everyone!!
+cn:侦察兵:我们终于让大门打开了,大家快进去!!
+
+t_7(3)_1
+en:Sniper: These barrels are blocking our way, How to clears them?
+cn:狙击手:这些桶挡住了我们的路,怎么清掉它们?
+
+t_7(3)_1
+en:Demoman: It looks like we need to use dynamite and blasts them, but it needs more
+cn:爆破手:看上去我们需要用一些炸药引爆,不过这里的炸药还不够.
+
+t_7(3)_1
+en:Engineer: Perhaps, those dynamites must be in this area, we should looking for atleast 3 dynamites
+cn:工程师:也许这附近还有一些炸药,我们至少要再找到3个炸药.
+
+t_dy_1
+en:Found 1 of 3 dynamites
+cn:找到1/3个炸药.
+
+t_dy_2
+en:Found 2 of 3 dynamites
+cn:找到2/3个炸药.
+
+t_dy_3
+en:Found 3 of 3 dynamites
+cn:找到3/3个炸药.
+
+t_7(3)_1
+en:Demoman: Alright! here we go! everyone stay away from those things!
+cn:爆破手:好耶!黑喂狗!要准备爆炸了,大家快走开!
+
+t_3(4)_1
+en:Scout:Oh My God, These...Blue team were killed by those robots
+cn:侦察兵:我的天.这些...蓝队的人被这些机器人杀掉了.
+
+t_1_2
+en:Medic: Umm...so, we need someone to controls and let's us keep going
+cn:医生:emm,所以我们需要某人在这里控制机关,其他人去闯关.
+
+t_tf_3
+en:We should put the teleport on here
+cn:我们需要在这里放传送门.
+
+t_tf_3_2
+en:We should put the teleport on here
+cn:我们需要在这里放传送门.
+
+t_tf_4
+en:The door is open now
+cn:门已经打开了.
+
+t_4(5)_1
+en:Heavy: Where the hell is this place?
+cn:机枪手:这里是个什么鬼地方?
+
+t_1_2
+en:Engineer: Maybe, Some kind of trials?
+cn:工程师:也许是某种实验室?
+
+t_1_2
+en:Spy: This place is so weird, However, we must go through this way
+cn:间谍:这地方太奇怪了,但是我们必须要穿过这里.
+
+t_tf_stag_a
+en:Stage1: Find the way out from this maze
+cn:第一关:找到出去的路.
+
+t_tf_stag_b
+en:Stage2 : Survives from robots for 3 minutes,timer will be reset if died all
+cn:第二关:在这里与机器人战斗坚持3分钟,如果所有人死了,计时器会重置.
+
+t_stage2_a
+en:2 minutes left
+cn:还剩下2分钟.
+
+t_stage2_b
+en:1 minutes left
+cn:还剩下1分钟.
+
+t_stage2_c
+en:You can go to next stage now
+cn:你现在可以去下一关了.
+
+t_tf_stag_c
+en:Stage3 : Find to way to press button and let's your frends come
+cn:第三关:找到方法按下按钮并让你的伙伴们也能过来.
+
+door_3
+en:The door is opened
+cn:门打开了.
+
+t_tf_stag_d
+en:Stage4 : Jumping through those laser to get goal
+cn:第四关:跳过这些激光以达到终点.
+
+t_tf_stag_e
+en:Stage5 : Use Spy to press that button
+cn:第五关:叫spy按下对面那个按钮.
+
+t_tf_stag_f
+en:Stage6 : Fight with 50 giant robots
+cn:第六关:于50个巨型机器人战斗.
+
+t_count_40
+en:40 more giant robots
+cn:还剩下40个巨型机器人.
+
+t_count_30
+en:30 more giant robots
+cn:还剩下30个巨型机器人.
+
+t_count_20
+en:20 more giant robots
+cn:还剩下20个巨型机器人.
+
+t_count_10
+en:10 more giant robots
+cn:还剩下10个巨型机器人.
+
+t_count_final
+en:All giant robots were destroyed , Now gets pass!
+cn:全部巨型机器人都被击败了,赶紧通过这里!
+
+t_5(6)_1
+en:Duvada: Good to see yall,  Yall came to me!
+cn:Duvada:(＾－＾)V很高兴见到你们,你们来找我了!
+
+t_1_2
+en:Duvada: I want to kill you all, I can't wait
+cn:Duvada:我等不及想杀掉你们全部人!
+
+t_1_2
+en:Engineer: I need to ask you something , What's plan are you going to do !?
+cn:工程师:我需要问你一点东西,你们计划要去做什么?!
+
+t_1_2
+en:Duvada: I will tell you for a little before you die
+cn:Duvada:在你死之前我会告诉你的.
+
+t_1_2
+en:Duvada: We will TAKEOVER the world, It will become for ours!
+cn:Duvada:我们将称霸全球,世界将属于我们!
+
+t_1_2
+en:Scout: Holyshit! We need to stop this plan......
+cn:侦察兵:我擦!我们需要阻止这个计划...
+
+t_1_2
+en:Duvada: Don't ask me anymore, Let's the fight...BEGIN!
+cn:Duvada:不要再问我了,让我们开始战斗吧!
+
+t_b_1
+en:Duvada: I want you all to plays with my pets AND take my pisses!
+cn:Duvada:我想你们都跟我的手下玩耍同时感受下尿液的滋味!
+
+t_b_2
+en:Duvada: I will shoot an arrows at your knee!
+cn:Duvada:我要将你们的膝盖射满弓箭!
+
+t_b_3
+en:Duvada: I will shoot this .50 cal SMG, You will taste it!
+cn:Duvada:我要拿出我的终极武器-50毫米口径的SMG,感受它的威力吧!
+
+t_1_2
+en:Duvada: Ahhhhhhhhh................god I'm dead
+cn:Duvada:w(ﾟДﾟ)w啊神啊,我居然死了.
+
+t_1_2
+en:Medic: Let's go! We need to stop the robot's plan!!
+cn:医生:出发吧!我们需要阻止机器人的计划!!

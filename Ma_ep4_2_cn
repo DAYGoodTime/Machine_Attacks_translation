@@ -1,0 +1,149 @@
+Ma_ep4_2_cn.lang
+
+T_标题
+en:Chapter 4 : The Robot called Reaper
+cn:第四章:一个叫收割者的机器人.
+
+t_1_1
+en:Engineer: This is far as we can go
+cn:工程师:我觉得我们可以走过去.
+
+t_1_2
+en:Spy: I also known some secret, It's in this town somewhere
+cn:间谍:我还知道一些秘密通道,在这座城市的某个地方.
+
+t_1_3
+en:Heavy: What a secret? Explains Now!
+cn:机枪手:什么?秘密通道?!快点说出来!
+
+t_1_4
+en:Spy: It's a elevator or something ,we should find it ou
+cn:间谍:那一个电梯什么的,我们要找到它.
+
+t_1_5
+en:Scout: OH MY GOD!! THE GIANT ROBOT!!!
+cn:侦察兵:我的妈啊!!巨型机器人!!!
+
+t_2_1
+en:Robot Soldier: Stop! You go far enough!
+cn:机器士兵:停下!你们在干什么!
+
+t_2_2
+en:Soldier: He's a robot! but only just one.... Kill him
+cn:士兵:是个机器人!咦,不过就一个而已..消灭它!
+
+t_2_3
+en:Robot Soldier: Not just a robot, We are the most powerful than other robots!
+cn:机器士兵:我不只是个机器人,我们是最强大的机器人.
+
+t_2_4
+en:Robot Soldier: We called ourself as Reaper, And I am here to take you all down
+cn:机器士兵:我们自称收割者,现在我要将你们全都压倒!
+
+t_2_5
+en:Cymanic: My name's Cymanic, And I will destroy you all!
+cn:Cymanic:我的名字是Cymanic,现在我要将你们消灭!
+
+t_b1_1
+en:Cymanic: Those are just toying! Now is real fight!
+cn:Cymanic:刚才只是开一下玩笑,现在来真的!
+
+t_b1_2
+en:Cymanic: ENOUGH OF THIS! I'll kill you all now
+cn:Cymanic:够了!我要全部杀掉你们!
+
+t_b1_3
+en:Cymanic: DIE YOU ALL!!! YOU WILL NEVER SEE THE SUN AGAIN!!
+cn:Cymanic: 全部都给我去死吧!!你们将永远见不到明天的太阳!!
+
+t_2_6
+en:Cymanic: I can't belive it!! I...lost....damnit!
+cn:Cymanic: 我不能相信!!我居然输了..fuck!
+
+t_2_7
+en:Soldier: Now...Let's go into this town
+cn:士兵:现在让我们进入这座城市吧.
+
+t_2_8
+en:Spy: The gates won't open, It must be somewhere to gets in, Looks around!!
+cn:间谍:这扇大门不能打开,一定有神秘入口,大家在周围找找入口!!
+
+t_3_1
+en:Spy: Hmm, What's this? What happen here?
+cn:间谍:喵喵喵?这是什么?这里发生了什么?
+
+t_3_2
+en:Heavy: Looks at this elevator , Is it still work?
+cn:机枪手:看这个电梯,它还在工作吗?
+
+t_3_3
+en:Spy: No...it's not working ,We should find some things to fixes this
+cn:间谍:不,它没在工作,我们应该想办法重新启动它.
+
+t_3_4
+en:Medic: Look at this corpse a side, It has a letter
+cn:医生:大家看着尸体后面,里面有一封信.
+
+t_3_5
+en:Medic : The elevator will works after we turned on the 3 controllers
+cn:医生:上面写着:启动电梯需要开启三个控制台.
+
+t_3_6
+en:Medic: So,Where are the 3 controllers?
+cn:医生:不过,那三个控制台在哪里呢?
+
+t_3_7
+en:Spy: Then let's go to finds and turn them on now
+cn:间谍:那就大家一起把控制台找出来并且启动电梯吧!
+
+t_tf_control1
+en:Engineer:2 more controllers left
+cn:工程师:还剩下2个控制台.
+
+t_tf_control2
+en:Engineer:1 more controllers left
+cn:工程师:还剩下1个控制台.
+
+t_tf_control3
+en:Engineer:All controllers are turned on
+cn:工程师:全部控制台都开启了.
+
+t_4_1
+en:Heavy: Here we go! The elevator is ready ,Let's go everyone
+cn:机枪手:出发吧!电梯已经启动了.
+
+t_4_2
+en:Spy: What the hell? Why controller is shutdown!?
+cn:间谍:什么鬼?怎么有一个控制台被关闭了?!
+
+t_4_3
+en:Jakete: Haha! I just did that! You can't go there anymore
+cn:Jakete:哈哈!是我干的!你们的旅途到此为止了.
+
+t_4_4
+en:Jakete: I'm Jakete ,A reaper member , You will die and have nothing!
+cn:Jakete:我是Jakete,收割者的成员,你们会死的一无所有!
+
+t_b2_1
+en:Jakete: EAT MY CLEAVER!
+cn:Jakete:吃我一棒!
+
+t_b2_2
+en:Jakete: It's time to PLAY BALLS!!
+cn:是时候来一起玩棒球了!!
+
+t_b2_3
+en:Jakete: You can't win this, YOU ALL SUCK!!
+cn:Jakete:你是不会赢得了我的,你个碧诗!!
+
+t_5_1
+en:Demoman: We need to get back to turn that controller on!!!
+cn:爆破手:我们要回去吧那个控制台重新启动!!!
+
+t_5_1_1
+en:Demoman: We have turned the lost controller on,Now get back and start the elevator!
+cn:爆破手:我们已经重启启动了那个控制台了,现在回去启动电梯!
+
+t_5_2
+en:Heavy: The elevator is fixed now!...Hurry!! Before robots come here
+cn:机枪手:这个电梯启动了!趁那些机器人来到前快点过来!

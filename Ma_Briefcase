@@ -20,7 +20,7 @@ cn:获得溅射效果.
 
 t_bonus_bomb5
 en:You got stun bomb
-cn:攻击使敌人眩晕.
+cn:攻击附加眩晕效果.
 
 t_bonus_buff1
 en:You become Ubercharge for 180s
@@ -32,7 +32,7 @@ cn:获得了180秒的加速的效果.
 
 t_bonus_buff3
 en:You become Critical Damage for 180s
-cn:获得了持续180秒攻击都是暴击的效果.
+cn:获得了持续180秒暴击效果.
 
 t_bonus_buff4
 en:You become Giant for 180s
@@ -44,7 +44,7 @@ cn:获得了一 大 堆 钱!!
 
 t_bonus_buff6
 en:You become Extreme Invisable
-cn:获得了高级隐形效果.
+cn:你已经完全隐形了.
 
 t_bonus_aura_buff1
 en:You got Overheal Buffing
@@ -52,7 +52,7 @@ cn:获得了超量治疗.
 
 t_bonus_aura_buff2
 en:You got 75% Resistance Buffing
-cn:获得了抵消部分伤害的效果.
+cn:获得了75%减伤效果.
 
 t_bonus_aura_buff3
 en:You got All Soldier Buffing
@@ -60,7 +60,7 @@ cn:获得了 三 色 战旗增益.
 
 t_bonus_aura_buff4
 en:You got 75% Avoid Buffing and Spawn Point
-cn:获得了有几率躲避伤害效果还有一次原地复活效果.
+cn:获得了75%躲避率还有一次原地复活效果.
 
 t_bonus_aura_buff5
 en:You got Robot Stunner Aura

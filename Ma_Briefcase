@@ -4,75 +4,75 @@
 
 t_bonus_bomb1
 en:You got ubercharge bomb
-cn:你获得了无敌效果.
+cn:获得了无敌效果.
 
 t_bonus_bomb2
 en:You got crit damage bomb
-cn:你获得了暴击效果.
+cn:获得了暴击效果.
 
 t_bonus_bomb3
 en:You got attack speed bomb
-cn:你获得了攻速加快效果.
+cn:获得了攻速提升效果.
 
 t_bonus_bomb4
 en:You got damage area bomb
-cn:你的溅射范围增加了.
+cn:获得溅射效果.
 
 t_bonus_bomb5
 en:You got stun bomb
-cn:你获得了可以击晕敌人的效果.
+cn:攻击使敌人眩晕.
 
 t_bonus_buff1
 en:You become Ubercharge for 180s
-cn:你获得了180秒的无敌.
+cn:获得了180秒的无敌.
 
 t_bonus_buff2
 en:You become SuperSpeeding for 180s
-cn:你获得了180秒的加速的效果.
+cn:获得了180秒的加速的效果.
 
 t_bonus_buff3
 en:You become Critical Damage for 180s
-cn:你获得了持续180秒攻击都是暴击的效果.
+cn:获得了持续180秒攻击都是暴击的效果.
 
 t_bonus_buff4
 en:You become Giant for 180s
-cn:你变成了巨人,持续180秒.
+cn:成为了巨人,持续180秒.
 
 t_bonus_buff5
 en:You got A LOT OF MONEY!!
-cn:你获得了一 大 堆 钱!!
+cn:获得了一 大 堆 钱!!
 
 t_bonus_buff6
 en:You become Extreme Invisable
-cn:你获得了高级隐形效果.
+cn:获得了高级隐形效果.
 
 t_bonus_aura_buff1
 en:You got Overheal Buffing
-cn:你获得了超量治疗.
+cn:获得了超量治疗.
 
 t_bonus_aura_buff2
 en:You got 75% Resistance Buffing
-cn:你获得了抵消75%的伤害的效果.
+cn:获得了抵消部分伤害的效果.
 
 t_bonus_aura_buff3
 en:You got All Soldier Buffing
-cn:你获得了所有士兵旗子的增益.
+cn:获得了 三 色 战旗增益.
 
 t_bonus_aura_buff4
 en:You got 75% Avoid Buffing and Spawn Point
-cn:你获得了75%的几率躲避伤害的的效果还有一次复活的机会.
+cn:获得了有几率躲避伤害效果还有一次原地复活效果.
 
 t_bonus_aura_buff5
 en:You got Robot Stunner Aura
-cn:你获得了周围机器人都会恐惧你的效果.
+cn:你获得了恐惧气场.(使周围机器人都进入恐慌状态)
 
 t_bonus_aura_buff6
 en:You got Damage Aura
-cn:你获得了范围攻击的效果.
+cn:获得了溅射效果.
 
 t_bonus_aura_buff7
 en:You got Crit Weakness Aura
-cn:你获得了弱点暴击的效果范围.
+cn:弱点暴击效果.
 
 t_bonus_aura_buff8
 en:You got Dispenser

@@ -6,32 +6,26 @@ cn:第0章: 训练
 
 t_1_1
 en:Welcome to Machine Attacks , the campaign MvM maps
-cn:欢迎来到 Machine Attacks ,一个剧情向的MVM地图.
 cn:欢迎来到 Machine Attacks(后面简称MA) ,一个剧情向的MVM地图.
 
 t_2
 en:This time is a begining tutorial if you are newbie
-cn:如果你是个新手的话,接下来将会开始教你如何开始玩这个系列的地图.
 cn:如果你是个新手的,那么现在正是时候开始入门教程了.
 
 t_3
 en:There are totally 10 stages, Get ready
-cn:一共有10个环节,你准备好了吗?
 cn:本教程一共有10个环节，准备好!
 
 t_2_1
 en:Here you are, This is The Upgrade Station
-cn:看这里, 这里就是全新的升级台!
 cn:看, 这个是全新的升级台!
 
 t_2_2
 en:And this is upgrade selection , Use your melee and hit a button to choose these upgrade
-cn:还有这里!这是升级选择站,用你的近战武器来敲击按钮来选择升级的内容.
 cn:还有这里!这是升级选择站,用你的近战武器来敲击按钮选择升级的内容.
 
 t_2_3
 en:If you don't have them yet/ then hit this button
-cn:如果你没装超级升级mod的话，那就敲击这个按钮.
 cn:如果你没装超级升级mod的话，那就敲击这个按钮(升级的内容则是原版MVM的升级).
 
 t_2_4
@@ -40,7 +34,6 @@ cn:如果你想使用它们的话,旁边的告示牌将告诉你如何安装.
 
 t_2_5
 en:Premium is regular upgrade with a many sockets and also reduce price for 25 percent
-cn:初级升级是一个正常的升级,他是普通MVM升级的扩展，而且价钱比原版的便宜.
 cn:初级升级是一个正常的升级,他是普通MVM升级的扩展，而且价钱比原版大约便宜25%.
 
 t_2_6
@@ -49,12 +42,10 @@ cn:高级升级是你没见过的全新升级,有着原版mvm完全没有的升�
 
 t_2_7
 en:Package is pack of some upgrades and if you buy will reduce for some extra price
-cn:打包升级是将某些升级整合成一个大升级而且会有蜜汁优惠哦.
 cn:整合升级是将某些升级整合成一个大升级而且会有少许优惠哦.
 
 t_2_8
 en:If you want more, hit these buttons which matching your class
-cn:如果你想有更多特殊升级,选择你的职业来购买专属升级.
 cn:如果你想有更多特殊升级,请选择你的职业所对应的升级.
 
 t_2_9
@@ -95,12 +86,10 @@ cn:这些效果会持续到你扔下它或死亡.
 
 t_3_8
 en:You can share this bonus to your friends around you and debuff robots around you
-cn:你可以共享这些增益给你身边的队友,同时也可以对身边的机器人造成影响.
 cn:你可以与周围的队友共享这些增益,或者对身边的机器人造成影响.
 
 t_3_9
 en:The Bomb briefcase is a powerful buff and can share to friends for a short time
-cn:这个炸弹增益箱可以给予非常强力的效果并且可以在短时间内分享给队友.
 cn:这个炸弹增益箱可以给予非常强力的效果并且增益可以分享给队友持续一小段时间.
 
 t_3_10
@@ -129,7 +118,6 @@ cn:但请记住,机器人同样也可以获得增益!所以不要让机器人过
 
 t_4_4
 en:This is Pickup Bonus
-cn:这是个小增益道具.
 cn:这是个可拾取的小增益道具.
 
 t_4_5
@@ -154,7 +142,6 @@ cn:这里是的增益房间.
 
 t_5_2
 en:You can see these bonus board and choose it if it's opened
-cn:你可以选择不同的增益(只要它门是开着的).
 cn:你可以在旁边的面板里选择你想要的效果然后进去其对应的数字.
 
 t_5_3
@@ -188,7 +175,6 @@ cn:你可以获得永久的曼恩能力,当你进去时,大门将会关闭,然�
 
 t_6_4
 en:This teleport mark also let engineer build at this location
-cn:这个传送门标记可以提醒工程师记得放传送.
 cn:这个传送门标记可以提醒工程师在这个位置建造传送装置.
 
 t_6_5
@@ -209,7 +195,6 @@ cn:这里是一个随机抽奖的增益房间.
 
 t_7_2
 en:You can attack at a button to get a random effects and you can keep get it everytime
-cn:你可以不断用近战武器按钮来获得各种效果.
 cn:你可以不断用近战武器按钮来获得各种效果,每当你获得这些效果后你都可以保留它们并持续一段时间.
 
 t_7_3
@@ -239,7 +224,6 @@ cn:这里属性交易站.
 
 t_8_2
 en:You can see this board and choose as you want... Use your melee hit the button
-cn:你可以在了解如何交易,用近战武器来敲击对应数字下的按钮.
 cn:你可以看这个面板并且选择你想要的属性,用近战武器来敲击对应数字下的按钮.
 
 t_8_3
@@ -260,7 +244,6 @@ cn:某些地图这里会有跳跳车.
 
 t_9_2
 en:And for that! this is a begining tutorial how to use a car on MA
-cn:所以!我们要教你如何正确在MA里食(使)用跳跳车.
 cn:所以!接下来是一个入门教程来教你在MA里正确食(使)用跳跳车.
 
 t_9_3
@@ -273,7 +256,6 @@ cn:抽一个无敌出来让你穿过箭雨.
 
 t_9_5
 en:Dashs here to go that way!
-cn:就是在这里冲刺!
 cn:在这里冲刺!
 
 t_9_6
@@ -282,12 +264,10 @@ cn:好样的!你通过了所有训练,是时候出发了!体验真正的MA.
 
 t_9_7
 en:The door will be opened in 20 seconds but if you need to practice agian then stand here for 6 peoples
-cn:大门会在20秒之后打开.如果你需要重来,那么请6个人站在前面的台阶里.
 cn:大门会在20秒之后打开.如果你需要再训练一次,那么请在前面的台阶里站6个人.
 
 t_9_8
 en:Let's choose episode you want and it will change within 10 seconds
-cn:选择你想玩的章节并等待10秒钟吧.
 cn:选择你们想玩的章节，选择完毕后地图会在10秒内更换.
 
 t_Continue

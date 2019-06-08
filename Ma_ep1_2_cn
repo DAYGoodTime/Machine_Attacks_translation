@@ -2,35 +2,35 @@ Ma_ep1_2_cn.lang
 
 T_标题
 en:Chapter 1 : Robots Attack
-cn:第一章:机器人的袭击.
+cn:第一章:机械侵袭.
 
 t_1
 en:Sniper: Wait! What the hell happening!? Why do those robots come here?
-cn:狙击手:等等!发生了什么大新闻?!为什么这些机器人都冲过来?
+cn:狙击手:等等!发生了什么大新闻?!为什么那些机器人都冲了过来?
 
 t_2
 en:Soldier: I don't know,but we must protect our base now!
-cn:士兵:我母鸡啊!不过现在我们要保护我们的基地!
+cn:士兵:我不知道啊!不过现在我们必须要保护我们的基地!
 
 t_3
 en:Engineer: Maybe,We should join blue team to defeat robots
-cn:工程师:也许我们应该联合起来对抗机器人.
+cn:工程师:也许我们应该与蓝队联合起来抵御机器人的进攻.
 
 t_4
 en:Spy: Too late! Those robots have already captured blue's base
-cn:间谍:太迟了!这些机器人已经占领的蓝队的基地了.
+cn:间谍:太迟了!这些机器人已经占领了蓝队的基地了.
 
 t_5
 en:Heavy: Then,What should we do? Kill robots all?
-cn:机枪手:然后?我们该怎么做?杀掉全部机器人?
+cn:机枪手:然后?我们该怎么做?摧毁全部的机器人?
 
-t_2
+t_6
 en:Spy: I have found the secret way to get out of here,follow me! I will lead you all
-cn:间谍:我知道一个秘密通道可以到哪里,跟着我!我将带头冲锋!
+cn:间谍:我知道一个可以从这里逃出去的秘密通道,跟我来!我来给你们领路.
 
-t_1
+t_7
 en:Scout: Yep! Let's kicks those metal scrap ass right now!
-cn:侦查兵:了解!让我们踢爆这些废铁的屁股!
+cn:侦查兵:好!现在让我们踢爆这些废铁的屁股!
 
 text_robot_rush
 en:Robots are coming!
@@ -44,17 +44,18 @@ t_hot
 en:The water is very hot!
 cn:这水超烫的!
 
+//这部分为占领控制点后的蜜汁词条，原文意思不明.
 t_m_a
 en:Sniper: The way is cleared,Go Go Go
 cn:狙击手:道路清空!GO GO GO!
 
 t_m_b
 en:Soldier:Robots are dead, Charge!
-cn:士兵:解决掉机器人了,Charge!
+cn:士兵:解决掉机器人了,冲锋!
 
 t_m_c
 en:Engineer: Keep moving!
-cn:工程师:冲啊!
+cn:工程师:不要停!
 
 t_m_d
 en:Spy:Move Move Move!
@@ -66,11 +67,13 @@ cn:机枪手:冲啊←↑↗↖↓↘↙!
 
 t_m_f
 en:Scout:Hey!,Got a moving guy!
-cn:侦查兵:看!一个会动的东西!
+cn:侦查兵:看!找到个会动的家伙!
 
 t_m_g
 en:Demoman:RUN! RUNNNNNN!
 cn:爆破手:跑啊啊啊啊啊!
+
+///////////
 
 t_onfire
 en:The way is on fire!!!!
@@ -80,17 +83,17 @@ t_sd_a
 en:Engineer:The safedoor is blocking us,How can we do?
 cn:工程师:安全门挡住了我们,怎么办?
 
-t_sb_b
+t_sd_b
 en:Spy: Umm,I don't know about this,regardless
-cn:间谍:emm,我也不知道怎么办,不然....
+cn:间谍:emm,我也拿不定主意,不然....
 
-t_sb_c
+t_sd_c
 en:Heavy: Let me open the door!!Jezz The door is too strong!
-cn:机枪手:让我来撞开这门!!只是这门太坚硬了!
+cn:机枪手:让我来撞开这门!!该死,这门太坚固了!
 
-t_sb_d
+t_sd_d
 en:Demoman:Then shoot the door down! however strong this door is
-cn:爆破手:直接把这破门拆掉!不过就是有点难度而已.
+cn:爆破手:直接把这破门射爆!不论这门有多坚固.
 
 t_shoot_metal_door
 en:Destroy the door
@@ -98,15 +101,15 @@ cn:打爆这扇门!
 
 t_1_1
 en:Scout: HOLY SHIT!! ROBOT BOSS!!
-cn:侦察兵:我累个妈耶!!巨型机器人!!
+cn:侦察兵:我累个妈耶!!巨型机器人首领!!
 
 t_scd_a
 en:Medic: We killed the giant robot, Where is secret door?
-cn:医生:我们击败了巨型机器人,神秘通道在哪里?
+cn:医生:我们击败了巨型机器人,那么神秘通道在哪里?
 
 t_scd_b
 en:Spy: I know there is a secret door in briefcase room,There must be here
-cn:间谍:我知道秘密通道一定在情报室里,一定在这附近.
+cn:间谍:据我了解肯定有个秘密通道在情报室里.
 
 t_scd_c
 en:Spy: But I don't know where is it
@@ -114,7 +117,7 @@ cn:间谍:但是我不知道它具体在哪.
 
 t_scd_d
 en:Scout: Oh man! So we need to find around this room now
-cn:侦查兵:啊不是吧!我们还要找出秘密通道出来.
+cn:侦查兵:啊不是吧!所以我们现在还要在这个房间里找通道.
 
 t_cant_go_tunnel
 en:The Sewer is blocked! We can't go that way
@@ -122,19 +125,19 @@ cn:这个下水道坏了!我们不能走这里.
 
 t_F_F_D
 en:Find the secret door
-cn:找到神秘通道.
+cn:找到秘密通道.
 
 t_scd_e
 en:Sniper: It's here, the door is here everyone!
-cn:狙击手:在这里!伙伴们,门在这里!
+cn:狙击手:在这里!伙计们,通道在这里!
 
 t_scd_f
 en:Engineer: What's path go to there? I didn't know about this path before
-cn:工程师:这条通道通向哪里呢?我以前从来不知道有这样的神秘通道.
+cn:工程师:这条通道通向哪里呢?我以前从来不知道有这个秘密通道.
 
 t_scd_g
 en:Soldier: It's only way we can get out of here, Let's go and find what is it
-cn:士兵:这是我们唯一能出去的通道了,让我们进去看看里面是什么.
+cn:士兵:这是我们能逃出这里的唯一方法了,让我们进去看看通道另一头是什么地方.
 
 t_continue
 en:To be Continue for Ep 2
